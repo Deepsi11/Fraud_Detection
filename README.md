@@ -1,2 +1,2 @@
 # Fraud_Detection
-Financila Fraud Detection
+Financial Fraud Detection
